@@ -1,6 +1,8 @@
 import numpy as np
 
-class Generator:
+from constants import Constants
+
+class Turbine:
 
     # Variables
 

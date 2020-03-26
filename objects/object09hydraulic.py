@@ -1,6 +1,8 @@
 import numpy as np
 
-class Shaft:
+from constants import Constants
+
+class Hydraulic:
 
     # Variables
 

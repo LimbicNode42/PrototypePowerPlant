@@ -1,6 +1,8 @@
 import numpy as np
 
-class Intake:
+from constants import Constants
+
+class Generator:
 
     # Variables
 

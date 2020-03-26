@@ -1,6 +1,8 @@
 import numpy as np
 
-class Turbine:
+from constants import Constants
+
+class Shaft:
 
     # Variables
 
